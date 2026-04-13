@@ -156,5 +156,4 @@ cython_debug/
 # Project specific ignores
 chroma_db/
 results/
-reports/
 .DS_Store
